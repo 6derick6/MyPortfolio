@@ -1,0 +1,35 @@
+.nome {
+    color: white;
+    font-size: 40px;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+.foto {
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 20px;
+    border: 2px solid black;
+    background-position: 1px;
+}
+
+
+.cabecalho {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100px;
+}
+
+.nome_aplicacao {
+    color: white;
+    font-size: 20px;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    text-decoration: underline;
+}
