@@ -2,7 +2,7 @@ import './style.css';
 
 import React from 'react'
 
-import Cabecalho from '../../assets/Cabecalho/Cabecalho';
+import Cabecalho from '../../Tela/Cabecalho/Cabecalho';
 
 import Fundo from '../../assets/Cabecalho/imagens/atras.png'
 
