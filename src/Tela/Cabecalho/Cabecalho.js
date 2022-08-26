@@ -2,7 +2,7 @@ import './style.css';
 
 import React from 'react'
 
-import Eu from "./imagens/eu1.jpg"
+import Eu from "../../assests/imagens/eu1.jpg"
 
 
 function Cabecalho() {
