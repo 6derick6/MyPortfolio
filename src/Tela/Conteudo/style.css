@@ -1,9 +1,43 @@
+.linguagens {
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+    transition: ease-in-out 0,3s;
+}
+
+.linguagens:hover {
+    font-size: 30px;
+}
+
 .logo-js {
-    width: 100px;
+    width: 9%;
     height: 100px;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.logo-php {
+    width: 9%;
+    height: 100px;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-top: 1%;
+}
+
+.logo-react {
+    width: 80px;
+    height: 100px;
+    margin-left: 10px;
     background-repeat: no-repeat;
 }
 
-.linguagens {
-    margin-top: 10%;
+
+
+.imagens-linguagens {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
 }
